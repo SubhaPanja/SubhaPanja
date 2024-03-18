@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- LinkedIn:https://www.linkedin.com/in/subha-panja-2b7645252/
+- Email:panjasubha2003@gmail.com
+- 
 
 <!---
 SubhaPanja/SubhaPanja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
