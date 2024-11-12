@@ -7,7 +7,8 @@
 - ⚡ Fun fact: ...
 - LinkedIn:https://www.linkedin.com/in/subha-panja-2b7645252/
 - Email:panjasubha2003@gmail.com
-- 
+- phone:8597995868
+- Instagram:https://www.instagram.com/subha.panja.9822/
 
 <!---
 SubhaPanja/SubhaPanja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
